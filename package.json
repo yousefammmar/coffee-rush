@@ -1,0 +1,22 @@
+{
+  "name": "coffee-rush",
+  "version": "1.0.0",
+  "description": "Coffee Rush - a pixel-art coffee shop game",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest run"
+  },
+  "type": "module",
+  "dependencies": {
+    "@fontsource/nunito": "^5.3.0",
+    "@fontsource/pixelify-sans": "^5.3.0",
+    "phaser": "^3.90.0"
+  },
+  "devDependencies": {
+    "vite": "^8.3.4",
+    "vitest": "^5.0.3"
+  },
+  "private": true
+}
